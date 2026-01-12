@@ -1,6 +1,7 @@
 <div align="center">
 
-# 🔍 FlowEye
+# <img width="600" height="600" alt="logo" src="https://github.com/user-attachments/assets/27b273f3-61be-49f6-9097-3358db077a3c" />
+FlowEye
 
 **流量之眼 - 智能被动漏洞扫描平台**
 https://yyyxxx.cc/products/floweye/
