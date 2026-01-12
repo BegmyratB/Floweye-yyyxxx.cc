@@ -1,7 +1,7 @@
 <div align="center">
 
 # 🔍 FlowEye
-
+https://yyyxxx.cc/products/floweye/
 **流量之眼 - 智能被动漏洞扫描平台**
 
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)](https://golang.org)
