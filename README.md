@@ -17,7 +17,7 @@
 ## 📖 项目简介
 
 **FlowEye（流量之眼）** 是一款专为安全测试人员打造的 Web 化被动漏洞扫描平台。通过与 Burp Suite 无缝集成，FlowEye 能够实时接收并分析 HTTP 流量，自动进行多维度漏洞检测，帮助安全研究人员高效发现 Web 应用安全风险。
-<img width="3440" height="1918" alt="1768234128824" src="https://github.com/user-attachments/assets/d27f7ad4-9539-4349-9b47-2e8d3926a3c9" />
+<img width="3440" height="1918" alt="1768234200696" src="https://github.com/user-attachments/assets/244a9800-3e47-4ba4-8cb6-946ff6553352" />
 
 ### 为什么选择 FlowEye？
 
@@ -30,7 +30,7 @@
 | 📦 **开箱即用** | 单文件可执行，无需复杂配置 |
 
 ## ✨ 功能特性
-<img width="3440" height="1918" alt="1768234200696" src="https://github.com/user-attachments/assets/244a9800-3e47-4ba4-8cb6-946ff6553352" />
+<img width="3440" height="1918" alt="1768234128824" src="https://github.com/user-attachments/assets/d27f7ad4-9539-4349-9b47-2e8d3926a3c9" />
 
 ### 核心功能
 
