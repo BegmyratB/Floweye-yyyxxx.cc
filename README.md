@@ -60,7 +60,8 @@ https://yyyxxx.cc/products/floweye/
 <img width="3424" height="1918" alt="1768234226410" src="https://github.com/user-attachments/assets/21cfaa43-913e-4e7f-b1e1-758e3f7aa392" />
 
 ## 🚀 快速开始
-
+### 0. 视频教程
+https://www.bilibili.com/video/BV1KorLBREcd
 ### 1. 下载
 
 前往 [Releases](https://github.com/YingxueSec/Floweye-yyyxxx.cc/releases) 页面下载最新版本：
