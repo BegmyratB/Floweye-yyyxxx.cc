@@ -9,8 +9,10 @@ https://yyyxxx.cc/products/floweye/
 [![Go Version](https://img.shields.io/badge/Go-1.21+-00ADD8?style=flat-square&logo=go)](https://golang.org)
 [![License](https://img.shields.io/badge/License-MIT-blue?style=flat-square)](LICENSE)
 [![Release](https://img.shields.io/github/v/release/YingxueSec/Floweye-yyyxxx.cc?style=flat-square)](https://github.com/YingxueSec/Floweye-yyyxxx.cc/releases)
+[![Downloads](https://img.shields.io/github/downloads/YingxueSec/Floweye-yyyxxx.cc/total?style=flat-square&color=green)](https://github.com/YingxueSec/Floweye-yyyxxx.cc/releases)
+[![Stars](https://img.shields.io/github/stars/YingxueSec/Floweye-yyyxxx.cc?style=flat-square)](https://github.com/YingxueSec/Floweye-yyyxxx.cc)
 
-[快速开始](#-快速开始) • [功能特性](#-功能特性) • [使用教程](#-使用教程) • [下载](#-下载)
+[快速开始](#-快速开始) • [功能特性](#-功能特性) • [使用教程](#-使用教程) • [更新日志](#-更新日志) • [下载](#-下载)
 
 </div>
 
@@ -30,6 +32,7 @@ https://yyyxxx.cc/products/floweye/
 | ⚡ **高效扫描** | 多引擎并行，支持 Shiro/Struts2/SQL注入/XSS 等漏洞检测 |
 | 🖥️ **现代界面** | React + TailwindCSS 构建的精美 Web UI |
 | 📦 **开箱即用** | 单文件可执行，无需复杂配置 |
+| 🇨🇳 **中文界面** | Burp 插件完整中文汉化 |
 
 ## ✨ 功能特性
 <img width="3440" height="1918" alt="1768234128824" src="https://github.com/user-attachments/assets/d27f7ad4-9539-4349-9b47-2e8d3926a3c9" />
@@ -268,7 +271,49 @@ A: 可以，建议配置 `host: "0.0.0.0"` 允许远程访问，注意配置防�
 
 **如需商业授权或定制开发，请联系作者。**
 
-## 🙏 致谢
+## � 更新日志
+
+### v1.6.0 (2026-01-16) - 最新版本
+
+#### SQL注入检测增强
+- 🔍 **布尔盲注差异检测** - 通过响应对比识别盲注漏洞
+- 🌐 **DNSLog OOB带外检测** - 支持 Ceye/Dnslog.cn 等平台
+- 📝 **JSON参数模糊测试** - 自动解析并测试 JSON 请求体
+
+#### 目录扫描增强
+- 📂 **层级遍历支持** - 配置 `hierarchical_scan` 和 `max_path_depth`
+
+#### Burp 插件优化
+- 🇨🇳 **完整中文汉化** - 所有 UI 文本已翻译为中文
+- 📊 **QPS 实时统计** - 每秒请求数动态显示
+- 🌙 **日志深色主题** - 更好的可读性
+
+### v1.5.0 (2026-01-11)
+- 🚀 新增 Solr、Tomcat、Jira、Laravel 检测引擎
+
+### v1.4.0 (2026-01-11)
+- 🚀 新增 Weblogic、Spring、Jenkins、ThinkPHP 检测引擎
+
+### v1.3.0 (2026-01-10)
+- 🚀 新增 Fastjson 全版本反序列化检测
+
+### v1.2.0 (2026-01-10)
+- 🚀 新增指纹识别引擎 (1077+ 规则)
+
+### v0.1.0 (2026-01-12)
+- 🎉 首发版本
+
+## ⭐ Star 趋势
+
+<a href="https://star-history.com/#YingxueSec/Floweye-yyyxxx.cc&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=YingxueSec/Floweye-yyyxxx.cc&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=YingxueSec/Floweye-yyyxxx.cc&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=YingxueSec/Floweye-yyyxxx.cc&type=Date" />
+ </picture>
+</a>
+
+## �🙏 致谢
 
 感谢以下开源项目：
 - [Gin](https://github.com/gin-gonic/gin) - HTTP Web 框架
@@ -281,6 +326,8 @@ A: 可以，建议配置 `host: "0.0.0.0"` 允许远程访问，注意配置防�
 <div align="center">
 
 **FlowEye** - 让流量无处遁形 👁️
+
+**映雪安全** | https://yyyxxx.cc
 
 [下载使用](https://github.com/YingxueSec/Floweye-yyyxxx.cc/releases) • [问题反馈](https://github.com/YingxueSec/Floweye-yyyxxx.cc/issues)
 
